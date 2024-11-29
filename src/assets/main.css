@@ -1,0 +1,6 @@
+@import './base.css';
+@import 'bootstrap';
+
+html{
+    font-family: "Poppins", sans-serif;
+}
