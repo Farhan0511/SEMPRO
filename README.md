@@ -13,6 +13,8 @@ For the best development experience, use the following IDE and extensions:
 - [VSCode](https://code.visualstudio.com/)
 - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (Make sure to disable Vetur extension)
 
+## License
+
 ## Project Setup
 
 To get started with this project, follow the steps below to set up the development environment.
@@ -24,4 +26,3 @@ Run the following command to install all necessary dependencies:
 ```sh
 npm install
 
-## License
