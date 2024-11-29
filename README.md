@@ -24,12 +24,5 @@ Run the following command to install all necessary dependencies:
 ```sh
 npm install
 
-# License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Penjelasan:
-- **Project Overview** menjelaskan bahwa proyek ini dibuat untuk **Seminar Proposal (Sempro)** dengan menggunakan **Vue 3** dan **Vite**.
-- **Recommended IDE Setup** memberikan rekomendasi penggunaan IDE dan ekstensi yang sesuai.
-- **Project Setup** memberikan instruksi mengenai instalasi dependensi, cara menjalankan server pengembangan, dan bagaimana membangun proyek untuk produksi.
-
-Dengan menggunakan README ini, Anda dapat memberikan penjelasan yang jelas dan lengkap tentang proyek Anda di GitHub.
